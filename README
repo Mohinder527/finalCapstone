@@ -1,0 +1,35 @@
+Capstone Project — Lists, Functions, and String Handling
+
+Description
+
+This project is a command-line task management system that allows users to register, add tasks, view tasks, and generate reports. It demonstrates the usage of lists, functions, and string handling in Python.
+
+Table of Contents
+
+Installation
+Usage
+Credits
+
+INSTALLATION:
+
+To install and run this project locally, follow these steps:
+
+Clone the repository to your local machine.
+Navigate to the project directory.
+Open a terminal or command prompt.
+Run the Python script using the command python capstone_project.py.
+
+USAGE:
+
+After installing the project, you can use the following commands to interact with the task management system:
+
+1.Register a New User (r): This command allows you to register a new user for the task management system.
+2.Add a New Task (a): Use this command to add a new task to the system. You will be prompted to provide details such as the assigned user, task title, description, and due date.
+3.View All Tasks (va): This command displays all tasks in a formatted manner, including the task title, assigned user, assigned date, due date, and task description.
+4.View My Tasks (vm): Use this command to view tasks assigned to the current user. You can also mark tasks as completed or edit them.
+5.Display Statistics (ds): This command displays statistics about the number of users and tasks in the system.
+6.Generate a Report (gr): If you have admin access, you can generate reports summarising the tasks and users in separate files.
+
+CREDITS:
+
+This project was created by Mohinder Singh. Guidance by HyperionDev.
